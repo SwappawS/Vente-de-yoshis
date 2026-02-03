@@ -1,0 +1,3 @@
+Les éléments sont les coins du background vert et une ombre sur le texte.
+IA: l'ia a seulement complété mon idée pour l'ombre sur le texte en m'indiquant les pixels et la couleur, je ne lui ait rien demandé, 
+le code par ia: text-shadow: 2px 2px 4px #1c3a09 ; comme précisé plus tot je n'ai pas demandé, elle a juste préécrit.
